@@ -38,7 +38,7 @@
 </div>
 
 ## Release APK
-<a href="http://bit.ly/vegetabeliap">
+<a href="http://bit.ly/vegetabeliapp">
   <img src="https://img.shields.io/badge/Download%20on%20the-Google%20Drive-blue.svg?style=popout&logo=google-drive"/>
 </a>
 
